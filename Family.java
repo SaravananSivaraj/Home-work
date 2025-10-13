@@ -11,7 +11,7 @@ int age=28;
 float weight=85.5f;
 long mobileNumber=8072734487l;
 
-System.out.println("My name is:"+name+ intial);
+System.out.println("My name is:"+name+" "+intial);
 System.out.println("My Father's name is:"+fatheName);
 System.out.println("My Mother's name is:"+motherName);
 System.out.println("My age is:"+age);
